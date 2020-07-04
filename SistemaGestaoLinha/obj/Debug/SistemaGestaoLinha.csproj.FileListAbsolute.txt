@@ -1,0 +1,169 @@
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csprojAssemblyReference.cache
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoAnalista.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoManutencao.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoProducao.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmLogin.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmPrincipal.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Properties.Resources.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmAbrirOrdem.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarPecas.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarProduto.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmConsultaPecas.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDadosProducao.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmLancarProducao.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmNovoUsuario.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmRecadastrarUsuario.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csproj.GenerateResource.cache
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe.config
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.pdb
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.exe
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.pdb
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDefinirProducaoM.resources
+C:\Users\elton\source\repos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmCoordenador.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe.config
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.pdb
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csprojAssemblyReference.cache
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoAnalista.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoManutencao.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoProducao.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmCoordenador.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmLogin.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmPrincipal.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Properties.Resources.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmAbrirOrdem.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarPecas.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarProduto.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmConsultaPecas.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDadosProducao.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmLancarProducao.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmNovoUsuario.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmRecadastrarUsuario.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDefinirProducaoM.resources
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csproj.GenerateResource.cache
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.exe
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.pdb
+C:\projetos\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmMaquinas.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe.config
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.pdb
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csprojAssemblyReference.cache
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoAnalista.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoManutencao.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoProducao.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmCoordenador.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmLogin.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmPrincipal.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Properties.Resources.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmAbrirOrdem.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarPecas.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarProduto.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmConsultaPecas.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDadosProducao.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmLancarProducao.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmMaquinas.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmNovoUsuario.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmRecadastrarUsuario.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDefinirProducaoM.resources
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csproj.GenerateResource.cache
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.exe
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.pdb
+C:\projetos\Nova pasta\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmOrdens.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe.config
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.pdb
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csprojAssemblyReference.cache
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoAnalista.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoManutencao.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoProducao.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmLogin.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmPrincipal.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Properties.Resources.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmAbrirOrdem.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarPecas.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarProduto.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmConsultaPecas.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDadosProducao.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmLancarProducao.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmNovoUsuario.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmOrdens.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmRecadastrarUsuario.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDefinirProducaoM.resources
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csproj.GenerateResource.cache
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.exe
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.pdb
+C:\projetos\teste\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoCoordenador.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe.config
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.pdb
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csprojAssemblyReference.cache
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoAnalista.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoCoordenador.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoManutencao.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoProducao.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmLogin.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmPrincipal.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Properties.Resources.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmAbrirOrdem.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarPecas.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarProduto.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmConsultaPecas.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDadosProducao.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmLancarProducao.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmNovoUsuario.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmOrdens.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmRecadastrarUsuario.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDefinirProducaoM.resources
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csproj.GenerateResource.cache
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.exe
+C:\projetos\teste22_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.pdb
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe.config
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.pdb
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csprojAssemblyReference.cache
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoAnalista.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoCoordenador.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoManutencao.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoProducao.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmLogin.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmPrincipal.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Properties.Resources.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmAbrirOrdem.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarPecas.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarProduto.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmConsultaPecas.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmLancarProducao.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmNovoUsuario.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmOrdens.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmRecadastrarUsuario.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDefinirProducaoM.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csproj.GenerateResource.cache
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.exe
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.pdb
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.Form1.resources
+C:\projetos\pasta25_06\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDdsProducao.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csprojAssemblyReference.cache
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoAnalista.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoCoordenador.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoManutencao.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Acessos.frmAcessoProducao.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmLogin.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.frmPrincipal.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Properties.Resources.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmAbrirOrdem.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarPecas.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmCadastrarProduto.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmConsultaPecas.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDdsProducao.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmLancarProducao.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmNovoUsuario.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmOrdens.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmRecadastrarUsuario.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.Servicos.frmDefinirProducaoM.resources
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.csproj.GenerateResource.cache
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.exe
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\obj\Debug\SistemaGestaoLinha.pdb
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe.config
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.exe
+C:\Users\elton\Desktop\SistemaGestaoLinha\SistemaGestaoLinha\bin\Debug\SistemaGestaoLinha.pdb

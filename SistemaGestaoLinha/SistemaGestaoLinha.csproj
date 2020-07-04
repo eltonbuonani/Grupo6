@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F72317AE-C4A8-44E3-88C2-30316B8D6CD1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SistemaGestaoLinha</RootNamespace>
+    <AssemblyName>SistemaGestaoLinha</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acessos\frmAcessoAnalista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acessos\frmAcessoAnalista.Designer.cs">
+      <DependentUpon>frmAcessoAnalista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acessos\frmAcessoCoordenador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acessos\frmAcessoCoordenador.Designer.cs">
+      <DependentUpon>frmAcessoCoordenador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acessos\frmAcessoProducao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acessos\frmAcessoProducao.Designer.cs">
+      <DependentUpon>frmAcessoProducao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acessos\frmAcessoManutencao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acessos\frmAcessoManutencao.Designer.cs">
+      <DependentUpon>frmAcessoManutencao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexao\AbrirOrdem.cs" />
+    <Compile Include="Conexao\CadastrarPecas.cs" />
+    <Compile Include="Conexao\CadastrarProduto.cs" />
+    <Compile Include="Conexao\Conexao.cs" />
+    <Compile Include="Conexao\Controle.cs" />
+    <Compile Include="Conexao\DefProducao.cs" />
+    <Compile Include="Conexao\LancarProducao.cs" />
+    <Compile Include="Conexao\LoginConexao.cs" />
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet.cs">
+      <DependentUpon>gestaoManutencaoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet7.cs">
+      <DependentUpon>gestaoManutencaoDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gestaoManutencaoDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestaoManutencaoDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Servicos\frmDdsProducao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicos\frmDdsProducao.Designer.cs">
+      <DependentUpon>frmDdsProducao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicos\frmAbrirOrdem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicos\frmAbrirOrdem.Designer.cs">
+      <DependentUpon>frmAbrirOrdem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicos\frmCadastrarPecas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicos\frmCadastrarPecas.Designer.cs">
+      <DependentUpon>frmCadastrarPecas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicos\frmCadastrarProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicos\frmCadastrarProduto.Designer.cs">
+      <DependentUpon>frmCadastrarProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicos\frmConsultaPecas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicos\frmConsultaPecas.Designer.cs">
+      <DependentUpon>frmConsultaPecas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicos\frmLancarProducao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicos\frmLancarProducao.Designer.cs">
+      <DependentUpon>frmLancarProducao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicos\frmNovoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicos\frmNovoUsuario.Designer.cs">
+      <DependentUpon>frmNovoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicos\frmOrdens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicos\frmOrdens.Designer.cs">
+      <DependentUpon>frmOrdens.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicos\frmRecadastrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicos\frmRecadastrarUsuario.Designer.cs">
+      <DependentUpon>frmRecadastrarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicos\frmDefinirProducaoM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicos\frmDefinirProducaoM.Designer.cs">
+      <DependentUpon>frmDefinirProducaoM.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Acessos\frmAcessoAnalista.resx">
+      <DependentUpon>frmAcessoAnalista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acessos\frmAcessoCoordenador.resx">
+      <DependentUpon>frmAcessoCoordenador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acessos\frmAcessoManutencao.resx">
+      <DependentUpon>frmAcessoManutencao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acessos\frmAcessoProducao.resx">
+      <DependentUpon>frmAcessoProducao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Servicos\frmAbrirOrdem.resx">
+      <DependentUpon>frmAbrirOrdem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicos\frmCadastrarPecas.resx">
+      <DependentUpon>frmCadastrarPecas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicos\frmCadastrarProduto.resx">
+      <DependentUpon>frmCadastrarProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicos\frmConsultaPecas.resx">
+      <DependentUpon>frmConsultaPecas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicos\frmDdsProducao.resx">
+      <DependentUpon>frmDdsProducao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicos\frmLancarProducao.resx">
+      <DependentUpon>frmLancarProducao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicos\frmNovoUsuario.resx">
+      <DependentUpon>frmNovoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicos\frmOrdens.resx">
+      <DependentUpon>frmOrdens.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicos\frmRecadastrarUsuario.resx">
+      <DependentUpon>frmRecadastrarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicos\frmDefinirProducaoM.resx">
+      <DependentUpon>frmDefinirProducaoM.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="gestaoManutencaoDataSet.xsc">
+      <DependentUpon>gestaoManutencaoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet.xss">
+      <DependentUpon>gestaoManutencaoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet1.xsc">
+      <DependentUpon>gestaoManutencaoDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet1.xss">
+      <DependentUpon>gestaoManutencaoDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet10.xsc">
+      <DependentUpon>gestaoManutencaoDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet10.xss">
+      <DependentUpon>gestaoManutencaoDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet11.xsc">
+      <DependentUpon>gestaoManutencaoDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet11.xss">
+      <DependentUpon>gestaoManutencaoDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet2.xsc">
+      <DependentUpon>gestaoManutencaoDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet2.xss">
+      <DependentUpon>gestaoManutencaoDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet3.xsc">
+      <DependentUpon>gestaoManutencaoDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet3.xss">
+      <DependentUpon>gestaoManutencaoDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet4.xsc">
+      <DependentUpon>gestaoManutencaoDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet4.xss">
+      <DependentUpon>gestaoManutencaoDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet5.xsc">
+      <DependentUpon>gestaoManutencaoDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet5.xss">
+      <DependentUpon>gestaoManutencaoDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet6.xsc">
+      <DependentUpon>gestaoManutencaoDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet6.xss">
+      <DependentUpon>gestaoManutencaoDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet7.xsc">
+      <DependentUpon>gestaoManutencaoDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet7.xss">
+      <DependentUpon>gestaoManutencaoDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet8.xsc">
+      <DependentUpon>gestaoManutencaoDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet8.xss">
+      <DependentUpon>gestaoManutencaoDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet9.xsc">
+      <DependentUpon>gestaoManutencaoDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="gestaoManutencaoDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestaoManutencaoDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestaoManutencaoDataSet9.xss">
+      <DependentUpon>gestaoManutencaoDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graphic-design.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-selecionado-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-selecionado-45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-selecionado-451.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-impressão-digital-aceita-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-arquivo-regular-75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-boia-salva-vidas-75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons81-mais-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons81-mais-321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-calculadora-75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-arquivo-75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-talão-de-cheques.-75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-pessoa-do-sexo-masculino-75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-adicionar-usuário-masculino-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-dinheiro-na-mão-75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-documento-compartilhado-75 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-documento-compartilhado-75 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-copiar-75 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-em-espiral-ligado-livreto-75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-em-espiral-ligado-livreto-751.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-copiar-75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-copiar-75 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-copiar-751.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-compre-pelo-dinheiro-75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-salvar-e-fechar-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-voltar-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-pesquisar-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sgm logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sgm logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sgm logo2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
